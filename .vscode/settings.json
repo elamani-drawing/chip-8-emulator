@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "cpu.c": "cpp",
+        "s_emulator.h": "c",
+        "pixel.h": "c",
+        "s_input.h": "c",
+        "s_jump.h": "c",
+        "sdl_audio.h": "c",
+        "limits": "c"
+    }
+}
